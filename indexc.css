@@ -1,0 +1,57 @@
+.box{
+    margin: 2px;
+    border: 20px;
+    
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    background-color:red;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+font-family: cursive;
+color: aliceblue;
+
+    
+}
+.div{
+    text-align: center;
+}
+.heading{
+
+}
+.body{
+    background-color: black;
+}
+.img{
+    
+    height: 50px;
+    width: 50px;
+    
+}
+.ntext{
+    color:red;
+}
+.column{
+    display: flex;
+    float: left;
+    padding: 5px;
+    width: 24.15%;
+    flex-wrap: wrap;
+}
+.dtext{
+    color: rgb(144, 144, 12);
+}
+.row{
+    content:"";
+    display: table;
+    clear: both;
+}
+.alin{
+    text-align: center;
+    text-decoration: dashed;
+    color: rgb(199, 167, 174);
+    font-size:xx-large;
+}
